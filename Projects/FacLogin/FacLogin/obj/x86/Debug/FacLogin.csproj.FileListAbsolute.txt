@@ -1,0 +1,10 @@
+c:\users\kunal\documents\visual studio 2010\Projects\FacLogin\FacLogin\bin\Debug\FacLogin.exe
+c:\users\kunal\documents\visual studio 2010\Projects\FacLogin\FacLogin\bin\Debug\FacLogin.pdb
+c:\users\kunal\documents\visual studio 2010\Projects\FacLogin\FacLogin\obj\x86\Debug\FacLogin.Form1.resources
+c:\users\kunal\documents\visual studio 2010\Projects\FacLogin\FacLogin\obj\x86\Debug\FacLogin.Properties.Resources.resources
+c:\users\kunal\documents\visual studio 2010\Projects\FacLogin\FacLogin\obj\x86\Debug\FacLogin.csproj.GenerateResource.Cache
+c:\users\kunal\documents\visual studio 2010\Projects\FacLogin\FacLogin\obj\x86\Debug\FacLogin.exe
+c:\users\kunal\documents\visual studio 2010\Projects\FacLogin\FacLogin\obj\x86\Debug\FacLogin.pdb
+c:\users\kunal\documents\visual studio 2010\Projects\FacLogin\FacLogin\bin\Debug\FacLogin.exe.config
+c:\users\kunal\documents\visual studio 2010\Projects\FacLogin\FacLogin\obj\x86\Debug\FacLogin.Form2.resources
+C:\Users\kunal\documents\visual studio 2010\Projects\FacLogin\FacLogin\obj\x86\Debug\FacLogin.csprojResolveAssemblyReference.cache
